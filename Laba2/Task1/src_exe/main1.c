@@ -6,7 +6,7 @@
 int main (void)
 {
 	double x, y;
-	printf("1.  Task1\r\n");
+	printf("1. Task1\r\n");
 	printf("2. Task2\r\n");
 	int a = _getch();
 	switch(a)
@@ -28,7 +28,6 @@ int main (void)
 			scanf_s("%lf", &x);
 			printf("f(x) = %.3lf", f(x));
 			break;
-
 	}
 	system("pause");
 	return 0;

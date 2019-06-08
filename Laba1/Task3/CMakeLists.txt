@@ -1,1 +1,1 @@
-add_executable (Task3 "Task3.c")
+add_executable (Laba1_Task3 "Task3.c")

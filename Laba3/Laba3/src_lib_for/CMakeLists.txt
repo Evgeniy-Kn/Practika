@@ -4,5 +4,6 @@
 cmake_minimum_required (VERSION 3.8)
 
 # Добавьте источник в исполняемый файл этого проекта.
-add_library(Task3lib STATIC "func.c")
-target_include_directories(Task3lib PUBLIC "../Include")
+add_library(Task1Laba3lib STATIC "func.c")
+target_include_directories(Task1Laba3lib PUBLIC "../Include")
+

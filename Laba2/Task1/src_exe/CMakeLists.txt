@@ -1,3 +1,3 @@
-﻿add_executable(Task1 "main1.c")
-target_link_libraries(Task1 Task1lib1)
-target_link_libraries(Task1 Task1lib2)
+﻿add_executable(Laba2 "main1.c")
+target_link_libraries(Laba2 Task1Laba2lib1)
+target_link_libraries(Laba2 Task1Laba2lib2)

@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Task1",
-    "\\Task1\\src_lib_1"
+    "\\Task1\\Include",
+    "\\Task1\\src_exe",
+    "\\Task1\\src_lib_1",
+    "\\Task1\\src_lib_2"
   ],
-  "SelectedNode": "\\Task1\\src_exe",
+  "SelectedNode": "\\Task1\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }

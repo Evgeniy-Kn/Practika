@@ -4,10 +4,10 @@
     "\\Laba3",
     "\\Laba3\\Include",
     "\\Laba3\\src_exe",
-    "\\Laba3\\src_lib_1",
-    "\\Laba3\\src_lib_2",
-    "\\Laba3\\src_lib_3"
+    "\\Laba3\\src_lib_do_while",
+    "\\Laba3\\src_lib_for",
+    "\\Laba3\\src_lib_while"
   ],
-  "SelectedNode": "\\Laba3\\src_exe\\CMakeLists.txt",
+  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }

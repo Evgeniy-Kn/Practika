@@ -1,1 +1,1 @@
-﻿add_executable (Task2 "Task2.c")
+﻿add_executable (Laba1_Task2 "Task2.c")

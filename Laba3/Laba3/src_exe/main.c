@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <f.h>
 
-
-
 int main()
 {
 	n = 2;

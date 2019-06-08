@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Laba5"
+    "\\Laba5",
+    "\\Laba5\\include",
+    "\\Laba5\\src_exe"
   ],
   "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
